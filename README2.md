@@ -9,3 +9,5 @@ I think I'll use it to format all of my documents from now on.
 **bold text**
 
 > block quotes
+
+email: <email@email.org>

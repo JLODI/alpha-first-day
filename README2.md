@@ -11,3 +11,10 @@ I think I'll use it to format all of my documents from now on.
 > block quotes
 
 email: <email@email.org>
+
+## Test list
+
+* Cookies
+* Ice Cream
+* Cake
+* Churros
